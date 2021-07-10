@@ -14,6 +14,8 @@ export default {
     text: true,
     keywords: true,
     author: true,
+    is_external: true,
+    jump_to: true,
   },
 
   posts: {
@@ -33,5 +35,7 @@ export default {
     tags: true,
     keywords: true,
     author: true,
+    is_external: true,
+    jump_to: true,
   },
 }
